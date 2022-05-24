@@ -1,0 +1,46 @@
+*{
+    font-family: "Google Sans",sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+nav{
+
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+h2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+main p{
+    margin: 10px 0;
+    line-height: 24px;
+    padding-top: 20px;
+}
+
+.numbers{
+    list-style-type: numbers;
+}
+
+.letters{
+    list-style-type:lower-latin
+}
+
+li{
+    line-height: 24px;
+    padding-left: 16px;
+}
